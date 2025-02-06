@@ -18,22 +18,22 @@ const items = [
   },
   {
     title: "Repairs",
-    url: "#",
+    url: "/repairs",
     icon: Wrench,
   },
   {
     title: "Customers",
-    url: "#",
+    url: "/customers",
     icon: Users,
   },
   {
     title: "Inventory",
-    url: "#",
+    url: "/inventory",
     icon: Package,
   },
   {
     title: "Settings",
-    url: "#",
+    url: "/settings",
     icon: Settings,
   },
 ];
